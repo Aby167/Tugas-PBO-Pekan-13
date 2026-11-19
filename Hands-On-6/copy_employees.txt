@@ -1,0 +1,3 @@
+John,Manager
+Siti,Staff IT
+Andi,Keuangan
